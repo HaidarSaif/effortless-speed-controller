@@ -17,5 +17,5 @@ Alat ini menggunakan modul kamera yang terhubung ke Raspberry Pi untuk membaca g
 ## 📂 Struktur Direktori
 *   `/computer_vision` - Berisi *script* Python dan model OpenCV untuk deteksi gestur di Raspberry Pi.
 *   `/microcontroller` - Berisi *source code* ESP32 (C++) sebagai penerima perintah aktuator.
-*   `/documentation` - Berisi *laporan proyek.
+*   `/documentation` - Berisi *laporan* proyek.
 <img width="1456" height="727" alt="Screenshot 2026-07-29 011551" src="https://github.com/user-attachments/assets/5ad43fc6-af6c-4a41-9bac-1287e30e6823" />
